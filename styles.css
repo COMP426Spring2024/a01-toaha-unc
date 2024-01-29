@@ -1,0 +1,19 @@
+p.first-para {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: coral;
+}
+
+a:hover {
+  background-color: grey;
+}
+
+body {
+}
+
+* {
+  color: coral;
+}
