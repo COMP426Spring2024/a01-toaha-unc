@@ -1,7 +1,3 @@
-p.first-para {
-  color: red;
-}
-
 a {
   text-decoration: none;
   color: coral;
@@ -12,8 +8,33 @@ a:hover {
 }
 
 body {
+  background-image: url("muhammad.jpg");
 }
 
 * {
   color: coral;
+}
+
+hr {
+  color: coral;
+}
+
+button {
+  padding: 5px;;
+  background-color:antiquewhite;
+}
+.fo{
+  color: white;
+}
+
+#story {
+  margin-left: 20px;
+}
+
+td, th {
+  text-align: left;
+}
+
+.tablespace{
+  margin-left: 20px;
 }
