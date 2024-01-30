@@ -21,16 +21,16 @@ footer > .fo{
   margin-left: 20px;
 }
 
-/* https://stackoverflow.com/questions/11870530/what-is-the-equivalent-of-border-1-in-css-for-table */
+
 td, th {
   text-align: left;
   color: coral;
-  border: 1px inset grey;
+  border: 1px solid grey;
 }
-/* https://stackoverflow.com/questions/11870530/what-is-the-equivalent-of-border-1-in-css-for-table */
+
 table {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: outset 1px grey;
+  border: solid 1px grey;
 }
 
 p, blockquote, ol, li, .following  {
