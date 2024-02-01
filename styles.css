@@ -1,11 +1,11 @@
 a {
   text-decoration: none;
-  color: coral;
+  color: #FF7F50;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a:hover {
-  background-color: grey;
+  background-color: #808080;
   
 }
 
@@ -24,37 +24,37 @@ footer > .fo{
 
 td, th {
   text-align: left;
-  color: coral;
-  border: 1px solid grey;
+  color: #FF7F50;
+  border: 1px solid #808080;
 }
 
 table {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  border: solid 1px grey;
+  border: solid 1px #808080;
 }
 
 p, blockquote, ol, li, .following  {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: coral;
+  color: #FF7F50;
 }
 h1{
   font-family: Arial, Helvetica, sans-serif;
-  color: coral;
+  color: #FF7F50;
 }
 
 h2 {
   font-family: 'Courier New', Courier, monospace;
-  color: coral;
+  color: #FF7F50;
 }
 
 h3{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: coral;
+  color: #FF7F50;
 }
 
 h4{
   font-family:Georgia, 'Times New Roman', Times, serif ;
-  color: coral;
+  color: #FF7F50;
 }
 cite{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -71,7 +71,7 @@ nav {
 #headingicon{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
   'Lucida Sans', Arial, sans-serif;
-  color: coral;
+  color: #FF7F50;
 }
 
 img{
@@ -89,12 +89,16 @@ img{
 }
 
 .wiki {
-  color: antiquewhite;
+  color: #FAEBD7;
 }
 
 .lessons{
-  color: antiquewhite; 
-  border: 1px solid coral; 
+  color: #FAEBD7; 
+  border: 1px solid #FF7F50; 
   padding:5px; 
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.selectdown{
+  color: #FF7F50;
 }
